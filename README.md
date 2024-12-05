@@ -5,4 +5,4 @@ This project contains the code for a puzzle box that challenges users to solve t
 - Simon Says
 - Reaction Time
 
-Each puzzle is randomly generated upon reset, ensuring the challenges cannot be memorized.
+Each puzzle is randomly generated when the game is rest so the puzzles cannot be memorized.
